@@ -35,4 +35,4 @@ public class Uklad {
 
         int poczworzony_czas_podrozy = czas << 2;
     }
-}
+}mm
